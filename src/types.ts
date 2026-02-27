@@ -24,6 +24,7 @@ export interface ClientProject {
   load: 'Low' | 'Medium' | 'High' | 'Critical';
   description: string;
   image: string;
+  link: string;
 }
 
 export interface ExperienceItem {

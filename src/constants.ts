@@ -63,7 +63,8 @@ export const CLIENT_PROJECTS: ClientProject[] = [
     status: 'Deployed',
     load: 'Medium',
     description: 'Created a modern business website with an intuitive admin panel for real-time content control.',
-    image: 'https://picsum.photos/seed/commerce/800/600'
+    image: 'clients-akysolutions.png',
+    link: 'https://akysolutions.com/'
   },
 ];
 
